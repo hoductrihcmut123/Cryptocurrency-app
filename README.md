@@ -6,7 +6,6 @@
 + Jetpack Compose
 
 
-![image](https://github.com/hoductrihcmut123/Cryptocurrency-app/assets/76983358/79898125-fcae-4bf1-8a4b-b050c9e5b5ac | width=605 )
-
-<img src="https://github.com/hoductrihcmut123/Cryptocurrency-app/assets/76983358/79898125-fcae-4bf1-8a4b-b050c9e5b5ac" width="300">
+<img src="https://github.com/hoductrihcmut123/Cryptocurrency-app/assets/76983358/a8a2fad4-95ff-4261-9909-01db6377564d" width="300">
+<img src="https://github.com/hoductrihcmut123/Cryptocurrency-app/assets/76983358/85248723-1562-439c-8fe4-fcc6d2df88ce" width="300">
 
